@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'libA' target in the 'libA' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
